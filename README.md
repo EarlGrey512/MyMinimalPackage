@@ -16,5 +16,13 @@ you can download the data set and attempt to reproduce the function. The
 function used is finding the length of the data set like so:
 
 ``` r
+devtools::install_github("EarlGrey512/MyMinimalPackage")
+library(mypkg2)
+data("TTS_Hamilton")
+```
+
+The function you will use can be typed as below:
+
+``` r
 length(TTS_Hamilton)
 ```

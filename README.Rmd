@@ -25,6 +25,13 @@ The goal of mypkg2 is to see the data set which is the 2016 TTS data set for Ham
 You can install the development version of mypkg2 from my repository, you can download the data set and attempt to reproduce the function. The function used is finding the length of the data set like so:
 
 ``` r
-length(TTS_Hamilton)
+devtools::install_github("EarlGrey512/MyMinimalPackage")
+library(mypkg2)
+data("TTS_Hamilton")
 ```
 
+The function you will use can be typed as below:
+
+``` r
+length(TTS_Hamilton)
+```
