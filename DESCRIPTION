@@ -1,0 +1,13 @@
+Package: mypkg2
+Title: TTS Hamilton Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sadia", "Tasnim", , email = "tasnis1@mcmaster.ca", role = c("aut", "cre"))
+Description: At this point, I just want the package to work.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
