@@ -7,7 +7,24 @@
 \format{
 A data frame with 419 rows and 17 variables:
 \describe{
-\item{Ward}{Names of wards in Hamilton}
+\item{Character}{Survey questions}
+\item{City of Hamilton}{Statistics for the entire City of Hamilton}
+\item{Ward 1 of Hamilton}{Statistics for this Ward}
+\item{Ward 2 of Hamilton}{Statistics for this Ward}
+\item{Ward 3 of Hamilton}{Statistics for this Ward}
+\item{Ward 4 of Hamilton}{Statistics for this Ward}
+\item{Ward 5 of Hamilton}{Statistics for this Ward}
+\item{Ward 6 of Hamilton}{Statistics for this Ward}
+\item{Ward 7 of Hamilton}{Statistics for this Ward}
+\item{Ward 8 of Hamilton}{Statistics for this Ward}
+\item{Ward 9 of Hamilton}{Statistics for this Ward}
+\item{Ward 10 of Hamilton}{Statistics for this Ward}
+\item{Ward 11 of Hamilton}{Statistics for this Ward}
+\item{Ward 12 of Hamilton}{Statistics for this Ward}
+\item{Ward 13 of Hamilton}{Statistics for this Ward}
+\item{Ward 14 of Hamilton}{Statistics for this Ward}
+\item{Ward 15 of Hamilton}{Statistics for this Ward}
+
 }
 }
 \source{
